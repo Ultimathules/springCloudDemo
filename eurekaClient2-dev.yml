@@ -9,3 +9,9 @@ spring:
     name: eurekaClient2
 server:
   port: 8070
+  
+
+  
+girl:
+  name: 李白
+  age: 20
