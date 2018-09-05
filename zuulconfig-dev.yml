@@ -1,7 +1,2 @@
 server:
   port: 9000
-zuul:
-  routes:
-    eurekaClient2: /eurekaClient2/**
-  ignored-patterns: 
-    - /eurekaclient2/**
