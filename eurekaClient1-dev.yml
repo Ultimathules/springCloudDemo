@@ -1,11 +1,2 @@
-# 表示注册地址是 http://localhost:8080/eureka/
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:10000/eureka/
-# 表示往注册地址注册的应用名是下面这个名称
-spring:
-  application:
-    name: eurekaClient1
 server:
   port: 8068
